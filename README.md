@@ -95,7 +95,8 @@ python analyzer.py path/to/binary.exe
 Optionally, run the web app (if Gradio UI is enabled), before running add virustotal api in file fender:
 
 ```bash
-python app.py
+python app.py #vithout virus total
+python newapp.py # with virustotal
 ```
 
 ## 🔍 VirusTotal Integration
