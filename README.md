@@ -1,9 +1,6 @@
 # 🛡️ Binary Analyzer - Malware Detection Framework
 
-**Course:** CT-371 – Vulnerability Assessment And Reverse Engineering  
 **Institution:** NED University of Engineering & Technology – CSIT Department  
-**Group Number:** 7  
-**Submitted On:** 12/05/2025
 
 ---
 
@@ -15,12 +12,10 @@
 
 ## 👥 Group Members
 
-| Name         | Roll Number |
-|--------------|-------------|
-| Furqan Patel | CR-22032    |
-| Tayyab Qamar | CR-22041    |
-| Anum Mateen  | CR-22002    |
-| Hamza Riaz   | CR-22031    |
+- Furqan Patel     
+- Tayyab Qamar     
+- Anum Mateen    
+- Hamza Riaz      
 
 ---
 
