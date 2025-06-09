@@ -70,7 +70,7 @@ Each feature is implemented as a standalone script inside the `/utils` directory
 
 ```bash
 git clone https://github.com/Furqan1208/Binary-Analyzer.git
-   cd Binary-Analyzer
+cd Binary-Analyzer
 ```
 
 2. **Install required dependencies:**
